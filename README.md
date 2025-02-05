@@ -1,2 +1,2 @@
-# coding-challenges
-A collection of my solutions to Coderbyte coding challenges, organized by difficulty. Each solution is implemented in Java with clean, efficient code and explanations where necessary. This repository showcases my problem-solving skills and tracks my progress over time. 
+# coding-practice
+A collection of my solutions to coding challenges and other activities that allow me to practice and improve my programming skills. This repository includse Coderbyte coding challenges organised by difficulty and various other programs that have been developed as practice. Each solution is implemented in Java with clean, efficient code and explanations where necessary. This repository showcases my problem-solving skills and tracks my progress over time. 
